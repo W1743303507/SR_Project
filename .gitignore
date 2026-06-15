@@ -1,0 +1,53 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Large datasets
+data/downloads/
+data/raw/
+data/processed/
+data/train/
+data/val/
+data/test/
+
+# Keep metadata CSV files
+!data/meta/
+!data/meta/*.csv
+
+# Model checkpoints and weights
+checkpoints/
+results/checkpoints/
+*.pth
+*.pt
+*.onnx
+
+# Generated result images
+results/bicubic/
+results/srcnn/
+results/edsr_lite/
+results/attention_edsr/
+results/debug/
+
+# Optional large image outputs
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# System files
+.DS_Store
+Thumbs.db

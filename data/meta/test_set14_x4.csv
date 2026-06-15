@@ -1,0 +1,15 @@
+lr_path,hr_path,dataset,split,scale
+data/processed/x4/test/Set14/LR/Set14_baboon.png,data/processed/x4/test/Set14/HR/Set14_baboon.png,Set14,test,4
+data/processed/x4/test/Set14/LR/Set14_barbara.png,data/processed/x4/test/Set14/HR/Set14_barbara.png,Set14,test,4
+data/processed/x4/test/Set14/LR/Set14_bridge.png,data/processed/x4/test/Set14/HR/Set14_bridge.png,Set14,test,4
+data/processed/x4/test/Set14/LR/Set14_coastguard.png,data/processed/x4/test/Set14/HR/Set14_coastguard.png,Set14,test,4
+data/processed/x4/test/Set14/LR/Set14_comic.png,data/processed/x4/test/Set14/HR/Set14_comic.png,Set14,test,4
+data/processed/x4/test/Set14/LR/Set14_face.png,data/processed/x4/test/Set14/HR/Set14_face.png,Set14,test,4
+data/processed/x4/test/Set14/LR/Set14_flowers.png,data/processed/x4/test/Set14/HR/Set14_flowers.png,Set14,test,4
+data/processed/x4/test/Set14/LR/Set14_foreman.png,data/processed/x4/test/Set14/HR/Set14_foreman.png,Set14,test,4
+data/processed/x4/test/Set14/LR/Set14_lenna.png,data/processed/x4/test/Set14/HR/Set14_lenna.png,Set14,test,4
+data/processed/x4/test/Set14/LR/Set14_man.png,data/processed/x4/test/Set14/HR/Set14_man.png,Set14,test,4
+data/processed/x4/test/Set14/LR/Set14_monarch.png,data/processed/x4/test/Set14/HR/Set14_monarch.png,Set14,test,4
+data/processed/x4/test/Set14/LR/Set14_pepper.png,data/processed/x4/test/Set14/HR/Set14_pepper.png,Set14,test,4
+data/processed/x4/test/Set14/LR/Set14_ppt3.png,data/processed/x4/test/Set14/HR/Set14_ppt3.png,Set14,test,4
+data/processed/x4/test/Set14/LR/Set14_zebra.png,data/processed/x4/test/Set14/HR/Set14_zebra.png,Set14,test,4

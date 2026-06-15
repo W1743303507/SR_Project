@@ -1,0 +1,6 @@
+lr_path,hr_path,dataset,split,scale
+data/processed/x4/test/Set5/LR/Set5_baby.png,data/processed/x4/test/Set5/HR/Set5_baby.png,Set5,test,4
+data/processed/x4/test/Set5/LR/Set5_bird.png,data/processed/x4/test/Set5/HR/Set5_bird.png,Set5,test,4
+data/processed/x4/test/Set5/LR/Set5_butterfly.png,data/processed/x4/test/Set5/HR/Set5_butterfly.png,Set5,test,4
+data/processed/x4/test/Set5/LR/Set5_head.png,data/processed/x4/test/Set5/HR/Set5_head.png,Set5,test,4
+data/processed/x4/test/Set5/LR/Set5_woman.png,data/processed/x4/test/Set5/HR/Set5_woman.png,Set5,test,4
